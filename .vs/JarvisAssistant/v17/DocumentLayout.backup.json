@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabsi\\source\\repos\\JarvisAssistant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{809FC2F4-C93D-4D4B-826C-7054932869C8}|JarvisAssistant\\JarvisAssistant.pyproj|C:\\Users\\fabsi\\source\\repos\\JarvisAssistant\\JarvisAssistant\\JarvisAssistant.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{809FC2F4-C93D-4D4B-826C-7054932869C8}|JarvisAssistant\\JarvisAssistant.pyproj|solutionrelative:JarvisAssistant\\JarvisAssistant.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JarvisAssistant.py",
+              "DocumentMoniker": "C:\\Users\\fabsi\\source\\repos\\JarvisAssistant\\JarvisAssistant\\JarvisAssistant.py",
+              "RelativeDocumentMoniker": "JarvisAssistant\\JarvisAssistant.py",
+              "ToolTip": "C:\\Users\\fabsi\\source\\repos\\JarvisAssistant\\JarvisAssistant\\JarvisAssistant.py",
+              "RelativeToolTip": "JarvisAssistant\\JarvisAssistant.py",
+              "ViewState": "AgIAAOkAAAAAAAAAAAArwPYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-29T04:21:04.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
